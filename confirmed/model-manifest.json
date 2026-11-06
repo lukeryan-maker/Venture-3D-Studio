@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "confirmationId": "a9e955d4-487f-47ab-97b6-ee920d0ad7d2",
+  "confirmedAt": "2026-11-06T19:22:09.014Z",
+  "projectName": "CLAV compression jersey",
+  "modelName": "CLAV compression jersey",
+  "modelType": "Athletic apparel",
+  "description": "A charcoal short-sleeve compression jersey with lime segmented clavicle pads, a cream chest wordmark and a ventilated front panel.",
+  "dimensions": {
+    "width": 0.7487,
+    "height": 0.6920000000000001,
+    "depth": 0.226,
+    "units": "m"
+  },
+  "camera": {
+    "projection": "perspective",
+    "position": [
+      0,
+      0.346,
+      1.41215
+    ],
+    "target": [
+      0,
+      0.346,
+      0
+    ],
+    "zoom": 1,
+    "fov": 36,
+    "orthographicHeight": 0.8442400000000001,
+    "units": "m"
+  },
+  "background": "#deddd4",
+  "lighting": "studio",
+  "hotspots": [],
+  "files": {
+    "model": "model.glb",
+    "manifest": "model-manifest.json",
+    "project": "project.json",
+    "preview": "preview.png",
+    "instructions": "README.txt"
+  },
+  "integrity": {
+    "algorithm": "SHA-256",
+    "file": "model.glb",
+    "hex": "857a5a2e8fcaee7d39a7cf55292ac04c74c2b779707cded270f272e133fc5fd7"
+  }
+}
